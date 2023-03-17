@@ -1,0 +1,417 @@
+Home,Away,Temperature (F),Forecast Description,year_week
+Eagles,Falcons,81,Rain,2018_week1
+Ravens,Bills,62,Light Rain,2018_week1
+Giants,Jaguars,58,Light Rain,2018_week1
+Patriots,Texans,62,Mostly Cloudy,2018_week1
+Dolphins,Titans,88,Rain,2018_week1
+Browns,Steelers,59,Light Rain,2018_week1
+Chargers,Chiefs,85,Clear,2018_week1
+Broncos,Seahawks,85,Clear,2018_week1
+Panthers,Cowboys,83,Drizzle,2018_week1
+Packers,Bears,60,Clear,2018_week1
+Raiders,Rams,71,Clear,2018_week1
+Bengals,Ravens,75,Clear,2018_week2
+Washington,Colts,73,Mostly Cloudy,2018_week2
+Titans,Texans,81,Partly Cloudy,2018_week2
+Buccaneers,Eagles,89,Humid and Partly Cloudy,2018_week2
+Steelers,Chiefs,79,Mostly Cloudy,2018_week2
+Jets,Dolphins,82,Clear,2018_week2
+Bills,Chargers,79,Clear,2018_week2
+Packers,Vikings,78,Partly Cloudy,2018_week2
+49ers,Lions,72,Clear,2018_week2
+Rams,Cardinals,85,Clear,2018_week2
+Jaguars,Patriots,93,Drizzle,2018_week2
+Broncos,Raiders,90,Clear,2018_week2
+Cowboys,Giants,87,Partly Cloudy,2018_week2
+Bears,Seahawks,80,Clear,2018_week2
+Browns,Jets,78,Humid,2018_week3
+Washington,Packers,63,Light Rain,2018_week3
+Eagles,Colts,61,Rain,2018_week3
+Dolphins,Raiders,88,Humid and Partly Cloudy,2018_week3
+Ravens,Broncos,62,Light Rain,2018_week3
+Panthers,Bengals,81,Mostly Cloudy,2018_week3
+Texans,Giants,79,Mostly Cloudy,2018_week3
+Jaguars,Titans,87,Mostly Cloudy,2018_week3
+Chiefs,49ers,72,Clear,2018_week3
+Rams,Chargers,79,Clear,2018_week3
+Seahawks,Cowboys,62,Partly Cloudy,2018_week3
+Buccaneers,Steelers,77,Humid and Mostly Cloudy,2018_week3
+Rams,Vikings,83,Clear,2018_week4
+Jaguars,Jets,86,Humid and Mostly Cloudy,2018_week4
+Patriots,Dolphins,66,Clear,2018_week4
+Titans,Eagles,80,Clear,2018_week4
+Packers,Bills,48,Overcast,2018_week4
+Cowboys,Lions,79,Mostly Cloudy,2018_week4
+Bears,Buccaneers,64,Overcast,2018_week4
+Raiders,Browns,71,Clear,2018_week4
+Giants,Saints,69,Partly Cloudy,2018_week4
+Chargers,49ers,82,Partly Cloudy,2018_week4
+Steelers,Ravens,66,Clear,2018_week4
+Broncos,Chiefs,65,Mostly Cloudy,2018_week4
+Patriots,Colts,66,Mostly Cloudy,2018_week5
+Bills,Titans,65,Overcast,2018_week5
+Steelers,Falcons,82,Partly Cloudy,2018_week5
+Jets,Broncos,75,Overcast,2018_week5
+Chiefs,Jaguars,58,Rain,2018_week5
+Browns,Ravens,70,Foggy,2018_week5
+Panthers,Giants,80,Overcast,2018_week5
+Bengals,Dolphins,86,Clear,2018_week5
+Chargers,Raiders,74,Clear,2018_week5
+49ers,Cardinals,76,Clear,2018_week5
+Eagles,Vikings,78,Mostly Cloudy,2018_week5
+Seahawks,Rams,54,Drizzle,2018_week5
+Texans,Cowboys,81,Humid and Partly Cloudy,2018_week5
+Giants,Eagles,70,Light Rain,2018_week6
+Washington,Panthers,54,Partly Cloudy,2018_week6
+Jets,Colts,57,Mostly Cloudy,2018_week6
+Bengals,Steelers,51,Mostly Cloudy,2018_week6
+Browns,Chargers,55,Clear,2018_week6
+Texans,Bills,87,Partly Cloudy,2018_week6
+Dolphins,Bears,88,Humid and Partly Cloudy,2018_week6
+Raiders,Seahawks,50,Light Rain,2018_week6
+Broncos,Rams,24,Overcast,2018_week6
+Titans,Ravens,66,Overcast,2018_week6
+Cowboys,Jaguars,78,Mostly Cloudy,2018_week6
+Patriots,Chiefs,45,Clear,2018_week6
+Packers,49ers,35,Partly Cloudy,2018_week6
+Chargers,Titans,64,Clear,2018_week7
+Buccaneers,Browns,80,Clear,2018_week7
+Eagles,Panthers,47,Mostly Cloudy,2018_week7
+Jets,Vikings,46,Overcast,2018_week7
+Dolphins,Lions,88,Partly Cloudy,2018_week7
+Bears,Patriots,43,Clear,2018_week7
+Jaguars,Texans,70,Partly Cloudy,2018_week7
+Ravens,Saints,52,Partly Cloudy,2018_week7
+Washington,Cowboys,51,Partly Cloudy,2018_week7
+49ers,Rams,71,Partly Cloudy,2018_week7
+Chiefs,Bengals,58,Clear,2018_week7
+Texans,Dolphins,65,Overcast,2018_week8
+Jaguars,Eagles,48,Partly Cloudy,2018_week8
+Chiefs,Broncos,60,Clear,2018_week8
+Steelers,Browns,48,Overcast,2018_week8
+Giants,Washington,50,Mostly Cloudy,2018_week8
+Bengals,Buccaneers,56,Overcast,2018_week8
+Bears,Jets,48,Overcast,2018_week8
+Panthers,Ravens,61,Clear,2018_week8
+Raiders,Colts,69,Partly Cloudy,2018_week8
+Rams,Packers,81,Partly Cloudy,2018_week8
+Bills,Patriots,37,Partly Cloudy,2018_week8
+49ers,Raiders,80,Partly Cloudy,2018_week9
+Bills,Bears,43,Clear,2018_week9
+Panthers,Buccaneers,60,Clear,2018_week9
+Browns,Chiefs,53,Partly Cloudy,2018_week9
+Dolphins,Jets,84,Humid and Mostly Cloudy,2018_week9
+Ravens,Steelers,52,Clear,2018_week9
+Washington,Falcons,53,Clear,2018_week9
+Broncos,Texans,53,Mostly Cloudy,2018_week9
+Seahawks,Chargers,57,Mostly Cloudy,2018_week9
+Patriots,Packers,42,Clear,2018_week9
+Cowboys,Titans,73,Clear,2018_week9
+Steelers,Panthers,40,Clear,2018_week10
+Bengals,Saints,38,Mostly Cloudy,2018_week10
+Browns,Falcons,38,Partly Cloudy,2018_week10
+Packers,Dolphins,30,Overcast,2018_week10
+Bears,Lions,35,Mostly Cloudy,2018_week10
+Chiefs,Cardinals,42,Clear,2018_week10
+Titans,Patriots,46,Clear,2018_week10
+Buccaneers,Washington,80,Clear,2018_week10
+Jets,Bills,44,Clear,2018_week10
+Raiders,Chargers,66,Clear,2018_week10
+Rams,Seahawks,73,Clear,2018_week10
+Eagles,Cowboys,37,Clear,2018_week10
+49ers,Giants,68,Clear,2018_week10
+Seahawks,Packers,54,Overcast,2018_week11
+Ravens,Bengals,46,Mostly Cloudy,2018_week11
+Giants,Buccaneers,41,Mostly Cloudy,2018_week11
+Washington,Texans,47,Mostly Cloudy,2018_week11
+Jaguars,Steelers,72,Partly Cloudy,2018_week11
+Chargers,Broncos,70,Clear,2018_week11
+Bears,Vikings,31,Clear,2018_week11
+Rams,Chiefs,69,Clear,2018_week11
+Cowboys,Washington,63,Clear,2018_week12
+Bengals,Browns,48,Mostly Cloudy,2018_week12
+Panthers,Seahawks,52,Partly Cloudy,2018_week12
+Bills,Jaguars,39,Mostly Cloudy,2018_week12
+Ravens,Raiders,57,Clear,2018_week12
+Buccaneers,49ers,75,Partly Cloudy,2018_week12
+Eagles,Giants,55,Clear,2018_week12
+Jets,Patriots,53,Partly Cloudy,2018_week12
+Chargers,Cardinals,72,Clear,2018_week12
+Broncos,Steelers,41,Clear,2018_week12
+Texans,Titans,51,Clear,2018_week12
+Cowboys,Saints,73,Clear,2018_week13
+Buccaneers,Panthers,80,Breezy and Humid,2018_week13
+Giants,Bears,50,Foggy,2018_week13
+Dolphins,Bills,85,Humid and Mostly Cloudy,2018_week13
+Bengals,Broncos,63,Clear,2018_week13
+Packers,Cardinals,34,Light Rain,2018_week13
+Texans,Browns,70,Clear,2018_week13
+Jaguars,Colts,78,Drizzle,2018_week13
+Titans,Jets,68,Clear,2018_week13
+Raiders,Chiefs,53,Clear,2018_week13
+Patriots,Vikings,51,Overcast,2018_week13
+Seahawks,49ers,45,Mostly Cloudy,2018_week13
+Steelers,Chargers,58,Mostly Cloudy,2018_week13
+Eagles,Washington,48,Partly Cloudy,2018_week13
+Titans,Jaguars,44,Overcast,2018_week14
+Bills,Jets,25,Partly Cloudy,2018_week14
+Washington,Giants,32,Clear,2018_week14
+Buccaneers,Saints,69,Drizzle,2018_week14
+Dolphins,Patriots,80,Humid and Mostly Cloudy,2018_week14
+Chiefs,Ravens,26,Clear,2018_week14
+Texans,Colts,45,Overcast,2018_week14
+Bears,Rams,29,Clear,2018_week14
+Browns,Panthers,31,Clear,2018_week14
+Packers,Falcons,24,Mostly Cloudy,2018_week14
+49ers,Broncos,54,Mostly Cloudy,2018_week14
+Chargers,Bengals,70,Clear,2018_week14
+Cowboys,Eagles,49,Clear,2018_week14
+Raiders,Steelers,51,Mostly Cloudy,2018_week14
+Seahawks,Vikings,47,Mostly Cloudy,2018_week14
+Chiefs,Chargers,37,Overcast,2018_week15
+Broncos,Browns,54,Partly Cloudy,2018_week15
+Jets,Texans,50,Mostly Cloudy,2018_week15
+Bears,Packers,40,Clear,2018_week15
+Bills,Lions,33,Light Snow,2018_week15
+Ravens,Buccaneers,43,Light Rain,2018_week15
+Bengals,Raiders,42,Overcast,2018_week15
+Giants,Titans,39,Overcast,2018_week15
+Jaguars,Washington,62,Clear,2018_week15
+49ers,Seahawks,59,Mostly Cloudy,2018_week15
+Steelers,Patriots,41,Overcast,2018_week15
+Rams,Eagles,65,Clear,2018_week15
+Panthers,Saints,48,Clear,2018_week15
+Titans,Washington,50,Clear,2018_week16
+Chargers,Ravens,64,Clear,2018_week16
+Eagles,Texans,43,Clear,2018_week16
+Dolphins,Jaguars,71,Clear,2018_week16
+Jets,Packers,41,Clear,2018_week16
+Browns,Bengals,37,Overcast,2018_week16
+Cowboys,Buccaneers,48,Clear,2018_week16
+Patriots,Bills,37,Clear,2018_week16
+Panthers,Falcons,49,Clear,2018_week16
+49ers,Bears,59,Partly Cloudy,2018_week16
+Seahawks,Chiefs,45,Overcast,2018_week16
+Raiders,Broncos,56,Overcast,2018_week16
+Bills,Dolphins,28,Overcast,2018_week17
+Packers,Lions,25,Mostly Cloudy,2018_week17
+Texans,Jaguars,45,Overcast,2018_week17
+Patriots,Jets,31,Partly Cloudy,2018_week17
+Giants,Cowboys,35,Overcast,2018_week17
+Buccaneers,Falcons,77,Mostly Cloudy,2018_week17
+Ravens,Browns,45,Clear,2018_week17
+Washington,Eagles,45,Clear,2018_week17
+Chiefs,Raiders,40,Clear,2018_week17
+Steelers,Bengals,41,Clear,2018_week17
+Broncos,Chargers,51,Partly Cloudy,2018_week17
+Rams,49ers,62,Clear,2018_week17
+Seahawks,Cardinals,45,Mostly Cloudy,2018_week17
+Titans,Colts,53,Mostly Cloudy,2018_week17
+Bears,Packers,65,Clear,2019_week1
+Panthers,Rams,85,Clear,2019_week1
+Eagles,Washington,79,Partly Cloudy,2019_week1
+Jets,Bills,74,Partly Cloudy,2019_week1
+Dolphins,Ravens,89,Humid and Mostly Cloudy,2019_week1
+Jaguars,Chiefs,93,Clear,2019_week1
+Browns,Titans,69,Mostly Cloudy,2019_week1
+Chargers,Colts,73,Clear,2019_week1
+Seahawks,Bengals,66,Overcast,2019_week1
+Buccaneers,49ers,91,Humid and Partly Cloudy,2019_week1
+Cowboys,Giants,97,Clear,2019_week1
+Patriots,Steelers,64,Partly Cloudy,2019_week1
+Raiders,Broncos,64,Partly Cloudy,2019_week1
+Panthers,Buccaneers,86,Drizzle,2019_week2
+Ravens,Cardinals,81,Clear,2019_week2
+Washington,Cowboys,82,Clear,2019_week2
+Titans,Colts,92,Clear,2019_week2
+Steelers,Seahawks,78,Clear,2019_week2
+Giants,Bills,80,Partly Cloudy,2019_week2
+Bengals,49ers,82,Clear,2019_week2
+Packers,Vikings,72,Overcast,2019_week2
+Texans,Jaguars,90,Partly Cloudy,2019_week2
+Dolphins,Patriots,90,Humid and Mostly Cloudy,2019_week2
+Raiders,Chiefs,66,Partly Cloudy,2019_week2
+Rams,Saints,84,Partly Cloudy,2019_week2
+Broncos,Bears,88,Mostly Cloudy,2019_week2
+Jets,Browns,71,Mostly Cloudy,2019_week2
+Jaguars,Titans,73,Mostly Cloudy,2019_week3
+Bills,Bengals,79,Mostly Cloudy,2019_week3
+Eagles,Lions,86,Clear,2019_week3
+Patriots,Jets,82,Clear,2019_week3
+Chiefs,Ravens,69,Overcast,2019_week3
+Packers,Broncos,69,Overcast,2019_week3
+Cowboys,Dolphins,86,Mostly Cloudy,2019_week3
+Buccaneers,Giants,89,Partly Cloudy,2019_week3
+49ers,Steelers,82,Partly Cloudy,2019_week3
+Seahawks,Saints,62,Drizzle,2019_week3
+Chargers,Texans,84,Partly Cloudy,2019_week3
+Browns,Rams,82,Clear,2019_week3
+Washington,Bears,82,Overcast,2019_week3
+Packers,Eagles,60,Clear,2019_week4
+Giants,Washington,78,Clear,2019_week4
+Dolphins,Chargers,86,Mostly Cloudy,2019_week4
+Texans,Panthers,89,Humid and Mostly Cloudy,2019_week4
+Ravens,Browns,82,Partly Cloudy,2019_week4
+Bills,Patriots,57,Mostly Cloudy,2019_week4
+Rams,Buccaneers,70,Partly Cloudy,2019_week4
+Bears,Vikings,66,Overcast,2019_week4
+Broncos,Jaguars,86,Partly Cloudy,2019_week4
+Steelers,Bengals,75,Clear,2019_week4
+Seahawks,Rams,55,Overcast,2019_week5
+Panthers,Jaguars,74,Overcast,2019_week5
+Washington,Patriots,70,Overcast,2019_week5
+Titans,Bills,76,Drizzle,2019_week5
+Steelers,Ravens,68,Drizzle,2019_week5
+Bengals,Cardinals,76,Mostly Cloudy,2019_week5
+Texans,Falcons,88,Mostly Cloudy,2019_week5
+Giants,Vikings,67,Overcast,2019_week5
+Raiders,Bears,60,Mostly Cloudy,2019_week5
+Eagles,Jets,70,Overcast,2019_week5
+Chargers,Broncos,80,Clear,2019_week5
+Cowboys,Packers,96,Partly Cloudy,2019_week5
+Chiefs,Colts,58,Clear,2019_week5
+49ers,Browns,87,Clear,2019_week5
+Patriots,Giants,54,Mostly Cloudy,2019_week6
+Dolphins,Washington,83,Humid and Overcast,2019_week6
+Chiefs,Texans,58,Clear,2019_week6
+Jaguars,Saints,80,Mostly Cloudy,2019_week6
+Browns,Seahawks,61,Clear,2019_week6
+Ravens,Bengals,61,Mostly Cloudy,2019_week6
+Rams,49ers,72,Clear,2019_week6
+Jets,Cowboys,65,Mostly Cloudy,2019_week6
+Broncos,Titans,71,Clear,2019_week6
+Chargers,Steelers,67,Clear,2019_week6
+Buccaneers,Panthers,51,Overcast,2019_week6
+Packers,Lions,42,Clear,2019_week6
+Broncos,Chiefs,72,Mostly Cloudy,2019_week7
+Bills,Dolphins,59,Partly Cloudy,2019_week7
+Bengals,Jaguars,72,Partly Cloudy,2019_week7
+Packers,Raiders,54,Clear,2019_week7
+Washington,49ers,55,Light Rain,2019_week7
+Giants,Cardinals,57,Overcast,2019_week7
+Titans,Chargers,75,Clear,2019_week7
+Bears,Saints,53,Partly Cloudy,2019_week7
+Seahawks,Ravens,49,Drizzle,2019_week7
+Cowboys,Eagles,82,Partly Cloudy,2019_week7
+Jets,Patriots,56,Clear,2019_week7
+Titans,Buccaneers,59,Overcast,2019_week8
+Rams,Bengals,48,Partly Cloudy,2019_week8
+Jaguars,Jets,81,Humid and Mostly Cloudy,2019_week8
+Bills,Eagles,52,Overcast,2019_week8
+Bears,Chargers,51,Clear,2019_week8
+Texans,Raiders,72,Clear,2019_week8
+49ers,Panthers,63,Clear,2019_week8
+Patriots,Browns,50,Drizzle,2019_week8
+Chiefs,Packers,52,Mostly Cloudy,2019_week8
+Steelers,Dolphins,61,Clear,2019_week8
+Jaguars,Texans,47,Possible Light Rain,2019_week9
+Eagles,Bears,51,Clear,2019_week9
+Steelers,Colts,46,Partly Cloudy,2019_week9
+Dolphins,Jets,83,Humid and Mostly Cloudy,2019_week9
+Chiefs,Vikings,55,Clear,2019_week9
+Panthers,Titans,55,Clear,2019_week9
+Bills,Washington,35,Overcast,2019_week9
+Seahawks,Buccaneers,51,Clear,2019_week9
+Raiders,Lions,70,Clear,2019_week9
+Chargers,Packers,73,Clear,2019_week9
+Broncos,Browns,57,Mostly Cloudy,2019_week9
+Ravens,Patriots,45,Clear,2019_week9
+Giants,Cowboys,51,Clear,2019_week9
+Raiders,Chargers,57,Clear,2019_week10
+Bengals,Ravens,56,Clear,2019_week10
+Browns,Bills,48,Mostly Cloudy,2019_week10
+Bears,Lions,40,Overcast,2019_week10
+Jets,Giants,47,Overcast,2019_week10
+Titans,Chiefs,62,Clear,2019_week10
+Buccaneers,Cardinals,75,Clear,2019_week10
+Packers,Panthers,33,Overcast,2019_week10
+Steelers,Rams,55,Clear,2019_week10
+Cowboys,Vikings,68,Clear,2019_week10
+49ers,Seahawks,75,Mostly Cloudy,2019_week10
+Browns,Steelers,37,Drizzle,2019_week11
+Panthers,Falcons,52,Partly Cloudy,2019_week11
+Dolphins,Bills,60,Overcast,2019_week11
+Ravens,Texans,42,Overcast,2019_week11
+Washington,Jets,41,Overcast,2019_week11
+Buccaneers,Saints,53,Overcast,2019_week11
+49ers,Cardinals,68,Clear,2019_week11
+Raiders,Bengals,68,Clear,2019_week11
+Eagles,Patriots,42,Overcast,2019_week11
+Rams,Bears,85,Clear,2019_week11
+Chargers,Chiefs,63,Mostly Cloudy,2019_week11
+Texans,Colts,74,Mostly Cloudy,2019_week12
+Bills,Broncos,37,Clear,2019_week12
+Bears,Giants,44,Clear,2019_week12
+Bengals,Steelers,43,Mostly Cloudy,2019_week12
+Browns,Dolphins,37,Overcast,2019_week12
+Washington,Lions,46,Mostly Cloudy,2019_week12
+Jets,Raiders,41,Drizzle,2019_week12
+Eagles,Seahawks,38,Light Sleet,2019_week12
+Titans,Jaguars,53,Clear,2019_week12
+Patriots,Cowboys,40,Overcast,2019_week12
+49ers,Packers,66,Clear,2019_week12
+Rams,Ravens,64,Clear,2019_week12
+Cowboys,Bills,47,Overcast,2019_week13
+Bengals,Jets,48,Overcast,2019_week13
+Panthers,Washington,60,Overcast,2019_week13
+Ravens,49ers,38,Drizzle,2019_week13
+Jaguars,Buccaneers,78,Mostly Cloudy,2019_week13
+Giants,Packers,30,Drizzle,2019_week13
+Dolphins,Eagles,80,Partly Cloudy,2019_week13
+Steelers,Browns,45,Overcast,2019_week13
+Chiefs,Raiders,35,Overcast,2019_week13
+Broncos,Chargers,35,Clear,2019_week13
+Texans,Patriots,59,Clear,2019_week13
+Seahawks,Vikings,47,Mostly Cloudy,2019_week13
+Bears,Cowboys,40,Drizzle,2019_week14
+Buccaneers,Colts,76,Clear,2019_week14
+Jets,Dolphins,37,Clear,2019_week14
+Texans,Broncos,67,Clear,2019_week14
+Bills,Ravens,34,Windy and Partly Cloudy,2019_week14
+Browns,Bengals,43,Partly Cloudy,2019_week14
+Packers,Washington,38,Partly Cloudy,2019_week14
+Jaguars,Chargers,63,Mostly Cloudy,2019_week14
+Raiders,Titans,58,Possible Drizzle,2019_week14
+Patriots,Chiefs,32,Clear,2019_week14
+Rams,Seahawks,64,Partly Cloudy,2019_week14
+Eagles,Giants,50,Drizzle,2019_week14
+Ravens,Jets,33,Clear,2019_week15
+Panthers,Seahawks,53,Clear,2019_week15
+Washington,Eagles,51,Clear,2019_week15
+Titans,Texans,42,Overcast,2019_week15
+Giants,Dolphins,46,Partly Cloudy,2019_week15
+Chiefs,Broncos,25,Light Snow,2019_week15
+Bengals,Patriots,34,Clear,2019_week15
+Packers,Bears,13,Clear,2019_week15
+Raiders,Jaguars,55,Clear,2019_week15
+Chargers,Vikings,63,Clear,2019_week15
+49ers,Falcons,55,Clear,2019_week15
+Cowboys,Rams,72,Clear,2019_week15
+Steelers,Bills,31,Mostly Cloudy,2019_week15
+Buccaneers,Texans,73,Overcast,2019_week16
+Patriots,Bills,32,Mostly Cloudy,2019_week16
+49ers,Rams,58,Overcast,2019_week16
+Washington,Giants,41,Partly Cloudy,2019_week16
+Titans,Saints,49,Drizzle,2019_week16
+Jets,Steelers,37,Clear,2019_week16
+Browns,Ravens,44,Clear,2019_week16
+Dolphins,Bengals,76,Mostly Cloudy,2019_week16
+Broncos,Lions,62,Mostly Cloudy,2019_week16
+Chargers,Raiders,65,Partly Cloudy,2019_week16
+Seahawks,Cardinals,45,Mostly Cloudy,2019_week16
+Eagles,Cowboys,44,Clear,2019_week16
+Bears,Chiefs,42,Clear,2019_week16
+Bills,Jets,39,Drizzle,2019_week17
+Buccaneers,Falcons,78,Humid and Mostly Cloudy,2019_week17
+Panthers,Saints,65,Overcast,2019_week17
+Bengals,Browns,60,Light Rain,2019_week17
+Chiefs,Chargers,39,Overcast,2019_week17
+Patriots,Dolphins,40,Mostly Cloudy,2019_week17
+Ravens,Steelers,46,Overcast,2019_week17
+Giants,Eagles,40,Drizzle,2019_week17
+Cowboys,Washington,50,Clear,2019_week17
+Texans,Titans,64,Partly Cloudy,2019_week17
+Jaguars,Colts,73,Mostly Cloudy,2019_week17
+Broncos,Raiders,32,Clear,2019_week17
+Rams,Cardinals,61,Clear,2019_week17
+Seahawks,49ers,47,Partly Cloudy,2019_week17
